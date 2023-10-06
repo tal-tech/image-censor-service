@@ -1,0 +1,7 @@
+/home/diaoaijie/workspace/image-service2/src/image-porn-censor/cpp/src/build/CMakeFiles/image-porn-censor.dir
+/home/diaoaijie/workspace/image-service2/src/image-porn-censor/cpp/src/build/CMakeFiles/edit_cache.dir
+/home/diaoaijie/workspace/image-service2/src/image-porn-censor/cpp/src/build/CMakeFiles/rebuild_cache.dir
+/home/diaoaijie/workspace/image-service2/src/image-porn-censor/cpp/src/build/CMakeFiles/list_install_components.dir
+/home/diaoaijie/workspace/image-service2/src/image-porn-censor/cpp/src/build/CMakeFiles/install.dir
+/home/diaoaijie/workspace/image-service2/src/image-porn-censor/cpp/src/build/CMakeFiles/install/local.dir
+/home/diaoaijie/workspace/image-service2/src/image-porn-censor/cpp/src/build/CMakeFiles/install/strip.dir
